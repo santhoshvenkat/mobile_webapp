@@ -1,5 +1,0 @@
-{
-  "name": "Orientation Sense",
-  "description": "A multi-tool web application that changes its function based on your device's orientation. Features include an alarm clock, stopwatch, timer, and a real-time weather display.",
-  "requestFramePermissions": []
-}
